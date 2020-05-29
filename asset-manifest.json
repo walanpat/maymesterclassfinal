@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/walanpat.github.io/static/css/main.5e364e59.chunk.css",
-    "main.js": "/walanpat.github.io/static/js/main.6182ad96.chunk.js",
-    "main.js.map": "/walanpat.github.io/static/js/main.6182ad96.chunk.js.map",
-    "runtime-main.js": "/walanpat.github.io/static/js/runtime-main.d8bfa98f.js",
-    "runtime-main.js.map": "/walanpat.github.io/static/js/runtime-main.d8bfa98f.js.map",
-    "static/js/2.75deb62b.chunk.js": "/walanpat.github.io/static/js/2.75deb62b.chunk.js",
-    "static/js/2.75deb62b.chunk.js.map": "/walanpat.github.io/static/js/2.75deb62b.chunk.js.map",
-    "index.html": "/walanpat.github.io/index.html",
-    "precache-manifest.b48bf06fa11e80caba60566e37db18e9.js": "/walanpat.github.io/precache-manifest.b48bf06fa11e80caba60566e37db18e9.js",
-    "service-worker.js": "/walanpat.github.io/service-worker.js",
-    "static/css/main.5e364e59.chunk.css.map": "/walanpat.github.io/static/css/main.5e364e59.chunk.css.map",
-    "static/js/2.75deb62b.chunk.js.LICENSE.txt": "/walanpat.github.io/static/js/2.75deb62b.chunk.js.LICENSE.txt"
+    "main.css": "/maymesterclassfinal/static/css/main.5e364e59.chunk.css",
+    "main.js": "/maymesterclassfinal/static/js/main.6182ad96.chunk.js",
+    "main.js.map": "/maymesterclassfinal/static/js/main.6182ad96.chunk.js.map",
+    "runtime-main.js": "/maymesterclassfinal/static/js/runtime-main.87cc0b72.js",
+    "runtime-main.js.map": "/maymesterclassfinal/static/js/runtime-main.87cc0b72.js.map",
+    "static/js/2.75deb62b.chunk.js": "/maymesterclassfinal/static/js/2.75deb62b.chunk.js",
+    "static/js/2.75deb62b.chunk.js.map": "/maymesterclassfinal/static/js/2.75deb62b.chunk.js.map",
+    "index.html": "/maymesterclassfinal/index.html",
+    "precache-manifest.b7167893a789c3f846cc5fe6f51bd097.js": "/maymesterclassfinal/precache-manifest.b7167893a789c3f846cc5fe6f51bd097.js",
+    "service-worker.js": "/maymesterclassfinal/service-worker.js",
+    "static/css/main.5e364e59.chunk.css.map": "/maymesterclassfinal/static/css/main.5e364e59.chunk.css.map",
+    "static/js/2.75deb62b.chunk.js.LICENSE.txt": "/maymesterclassfinal/static/js/2.75deb62b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8bfa98f.js",
+    "static/js/runtime-main.87cc0b72.js",
     "static/js/2.75deb62b.chunk.js",
     "static/css/main.5e364e59.chunk.css",
     "static/js/main.6182ad96.chunk.js"
