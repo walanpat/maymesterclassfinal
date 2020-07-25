@@ -129,7 +129,7 @@ class History extends Component {
             <br />
             Step 5: Rid Life of Obstacles
             <br />
-            This means overcoming the past, fear, and the worldy guilt that comes from sin.
+            This means overcoming the past, fear, and the worldly guilt that comes from sin.
             <br />
             <br />
             Step 6: Give Everything
@@ -261,7 +261,7 @@ class History extends Component {
             receive any, or enough, Philosophical training. The study of
             philosophy is foundational to the study of theology, so the members
             of this program generally aim toward a Bachelors in Philosophy,
-            studying especially, Ancient philosophy of Metaphysics, this will
+            studying especially Ancient philosophy of Metaphysics, this will
             prepare students to study the Theological giants of the Church. This
             program is typically 2 years in length.
             <br />
