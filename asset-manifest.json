@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/maymesterclassfinal/static/css/main.0119d70e.chunk.css",
-    "main.js": "/maymesterclassfinal/static/js/main.6e2d35a6.chunk.js",
-    "main.js.map": "/maymesterclassfinal/static/js/main.6e2d35a6.chunk.js.map",
+    "main.css": "/maymesterclassfinal/static/css/main.fd6ab39f.chunk.css",
+    "main.js": "/maymesterclassfinal/static/js/main.51ccf7b9.chunk.js",
+    "main.js.map": "/maymesterclassfinal/static/js/main.51ccf7b9.chunk.js.map",
     "runtime-main.js": "/maymesterclassfinal/static/js/runtime-main.87cc0b72.js",
     "runtime-main.js.map": "/maymesterclassfinal/static/js/runtime-main.87cc0b72.js.map",
-    "static/js/2.75deb62b.chunk.js": "/maymesterclassfinal/static/js/2.75deb62b.chunk.js",
-    "static/js/2.75deb62b.chunk.js.map": "/maymesterclassfinal/static/js/2.75deb62b.chunk.js.map",
+    "static/js/2.7ae5c109.chunk.js": "/maymesterclassfinal/static/js/2.7ae5c109.chunk.js",
+    "static/js/2.7ae5c109.chunk.js.map": "/maymesterclassfinal/static/js/2.7ae5c109.chunk.js.map",
     "index.html": "/maymesterclassfinal/index.html",
-    "precache-manifest.ce74ac76af4ee2878e198b2029e043d4.js": "/maymesterclassfinal/precache-manifest.ce74ac76af4ee2878e198b2029e043d4.js",
+    "precache-manifest.9ebbfe1ccd848b711e9cb923eaa6ed67.js": "/maymesterclassfinal/precache-manifest.9ebbfe1ccd848b711e9cb923eaa6ed67.js",
     "service-worker.js": "/maymesterclassfinal/service-worker.js",
-    "static/css/main.0119d70e.chunk.css.map": "/maymesterclassfinal/static/css/main.0119d70e.chunk.css.map",
-    "static/js/2.75deb62b.chunk.js.LICENSE.txt": "/maymesterclassfinal/static/js/2.75deb62b.chunk.js.LICENSE.txt"
+    "static/css/main.fd6ab39f.chunk.css.map": "/maymesterclassfinal/static/css/main.fd6ab39f.chunk.css.map",
+    "static/js/2.7ae5c109.chunk.js.LICENSE.txt": "/maymesterclassfinal/static/js/2.7ae5c109.chunk.js.LICENSE.txt",
+    "static/media/Eucharist Image.jpg": "/maymesterclassfinal/static/media/Eucharist Image.cc6cd9b2.jpg",
+    "static/media/MyFace.jpg": "/maymesterclassfinal/static/media/MyFace.53a5bd9f.jpg",
+    "static/media/Ordinationstart.jpg": "/maymesterclassfinal/static/media/Ordinationstart.dfd9de91.jpg",
+    "static/media/Oxford.jpg": "/maymesterclassfinal/static/media/Oxford.19d1b870.jpg",
+    "static/media/Paperwork.jpg": "/maymesterclassfinal/static/media/Paperwork.d660b193.jpg",
+    "static/media/Prostration.jpg": "/maymesterclassfinal/static/media/Prostration.acb7d2e0.jpg",
+    "static/media/layingofhands.jpg": "/maymesterclassfinal/static/media/layingofhands.3556551e.jpg",
+    "static/media/monks.jpg": "/maymesterclassfinal/static/media/monks.1ca07ea1.jpg",
+    "static/media/walkingtochurch.jpg": "/maymesterclassfinal/static/media/walkingtochurch.5e094b96.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.87cc0b72.js",
-    "static/js/2.75deb62b.chunk.js",
-    "static/css/main.0119d70e.chunk.css",
-    "static/js/main.6e2d35a6.chunk.js"
+    "static/js/2.7ae5c109.chunk.js",
+    "static/css/main.fd6ab39f.chunk.css",
+    "static/js/main.51ccf7b9.chunk.js"
   ]
 }
